@@ -14,9 +14,9 @@ We are located Rio de Janeiro/BR region and we can serve our clients on-site or 
 
 ## Contact
 
-<img src="images/mail.png" alt="e-mail" width="16"> cesar.mansur at gmail dot com</img>
+<img src="images/mail.png" alt="e-mail" width="16"/> cesar.mansur at gmail dot com
 
-<img src="images/whatsapp.png" alt="phone / whatsapp" width="16"> +55 (21) 98989-1981</img>
+<img src="images/whatsapp.png" alt="phone / whatsapp" width="16"/> +55 (21) 98989-1981
 
 ---
 
